@@ -1,0 +1,1056 @@
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.staticwebassets.runtime.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.exe
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.deps.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.runtimeconfig.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.pdb
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.AssemblyReference.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.AssemblyInfoInputs.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.AssemblyInfo.cs
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.Backend-ASP-Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Backend-ASP-Project.props
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backend-ASP-Project.props
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backend-ASP-Project.props
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\scopedcss\bundle\Backend-ASP-Project.styles.css
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.CopyComplete
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\refint\Backend-ASP-Project.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.pdb
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.genruntimeconfig.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\ref\Backend-ASP-Project.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.staticwebassets.runtime.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.exe
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.deps.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.runtimeconfig.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.pdb
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Humanizer.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.AssemblyReference.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.AssemblyInfoInputs.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.AssemblyInfo.cs
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.Backend-ASP-Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Backend-ASP-Project.props
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backend-ASP-Project.props
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backend-ASP-Project.props
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\scopedcss\bundle\Backend-ASP-Project.styles.css
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.CopyComplete
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\refint\Backend-ASP-Project.dll
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.pdb
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.genruntimeconfig.cache
+C:\Users\User\Documents\StepAcademy\Web\Web\Exam\ASP Project\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\ref\Backend-ASP-Project.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\appsettings.Development.json
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\appsettings.json
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.staticwebassets.runtime.json
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.exe
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.deps.json
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.runtimeconfig.json
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.pdb
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Humanizer.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Common.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.CodeDom.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.AssemblyReference.cache
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.AssemblyInfoInputs.cache
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.AssemblyInfo.cs
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.CoreCompileInputs.cache
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.MvcApplicationPartsAssemblyInfo.cs
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.MvcApplicationPartsAssemblyInfo.cache
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.build.json
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.development.json
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.Backend-ASP-Project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Backend-ASP-Project.props
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backend-ASP-Project.props
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backend-ASP-Project.props
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\scopedcss\bundle\Backend-ASP-Project.styles.css
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.CopyComplete
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\refint\Backend-ASP-Project.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.pdb
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.genruntimeconfig.cache
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\ref\Backend-ASP-Project.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Document\StepAcademy\Exam ASP\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\appsettings.json
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.staticwebassets.runtime.json
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.exe
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.deps.json
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.runtimeconfig.json
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Backend-ASP-Project.pdb
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Humanizer.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.AssemblyReference.cache
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.AssemblyInfoInputs.cache
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.AssemblyInfo.cs
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.csproj.CoreCompileInputs.cache
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.Backend-ASP-Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Backend-ASP-Project.props
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Backend-ASP-Project.props
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Backend-ASP-Project.props
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\scopedcss\bundle\Backend-ASP-Project.styles.css
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-.2138C98C.Up2Date
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\refint\Backend-ASP-Project.dll
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.pdb
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\Backend-ASP-Project.genruntimeconfig.cache
+C:\Users\varin\OneDrive\Desktop\Projects For GIt\Student Library Project\Backend-ASP-Project\Backend-ASP-Project\obj\Debug\net8.0\ref\Backend-ASP-Project.dll

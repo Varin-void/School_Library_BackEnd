@@ -1,0 +1,42 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Visual Studio files
+.vs/
+
+# Ignore package-lock.json for npm
+package-lock.json
+
+# Ignore IDE-specific files
+*.suo
+*.user
+*.sln.cache
+
+# Ignore build output
+/bin/
+/obj/
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Ignore logs and other generated files
+logs/
+*.log
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore JetBrains IDEs
+.idea/
+
+# Ignore project specific files or directories (adjust as needed)
+config.js
+/secrets/
+
+# Ignore backup files created by text editors or version control
+*~
